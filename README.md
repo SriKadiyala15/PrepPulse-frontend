@@ -4,6 +4,9 @@ PrepPulse is a full-stack web application that automatically generates intellige
 Users simply paste a Wikipedia URL, and the system validates the article, extracts and cleans the content, generates a concise summary, and creates a multiple-choice quiz in real time.
 
 **NOTE-** After opening the frontend link, please wait at least 30 seconds for the backend to wake up before using the application.
+
+**Link-**https://preppulseproject.vercel.app/
+
 **Tech Stack-**
 
 **Frontend-**
