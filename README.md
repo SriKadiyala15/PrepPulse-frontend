@@ -3,6 +3,7 @@
 PrepPulse is a full-stack web application that automatically generates intelligent quizzes from Wikipedia articles using Generative AI. The goal of this project is to help students and learners quickly convert reading material into interactive practice questions.
 Users simply paste a Wikipedia URL, and the system validates the article, extracts and cleans the content, generates a concise summary, and creates a multiple-choice quiz in real time.
 
+**NOTE-** After opening the frontend link, please wait at least 30 seconds for the backend to wake up before using the application.
 **Tech Stack-**
 
 **Frontend-**
