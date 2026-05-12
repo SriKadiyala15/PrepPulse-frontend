@@ -1,4 +1,4 @@
-**NOTE -** Acces my **latest** version of PrepPulse Projct here- https://github.com/SriKadiyala15/PrepPulse
+**NOTE -** Access my **latest** version of PrepPulse Projct here- https://github.com/SriKadiyala15/PrepPulse
 
 **PrepPulse – AI-Powered Quiz Generator**
 
